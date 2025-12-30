@@ -1,6 +1,6 @@
 # 🥗 HEI Calculator (HEI-2015)
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![Language](https://img.shields.io/badge/language-AutoIt_v3-green.svg) ![License](https://img.shields.io/badge/license-Freeware-orange.svg) ![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![Language](https://img.shields.io/badge/language-AutoIt_v3-green.svg) ![License](https://img.shields.io/badge/license-Freeware-orange.svg) ![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg)
 
 **HEI Calculator**, beslenme verilerini HEI-2015 (Healthy Eating Index) bilimsel standartlarına göre analiz eden, çoklu dil destekli ve modern arayüze sahip profesyonel bir masaüstü uygulamasıdır.
 
