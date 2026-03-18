@@ -97,7 +97,7 @@ Bu program ücretsiz olarak kullanılabilir ve dağıtılabilir. Kaynak kodu kap
 
 ## ☕ Bağış Yap
 
-Geliştirdiğim bu yazılım tamamen ücretsiz ve açık kaynaklıdır. Eğer projem işinize yaradıysa, bana bir kahve ısmarlayarak çalışmalarıma destek olabilirsiniz! 🚀
+Geliştirdiğim bu yazılım tamamen ücretsizdir. Eğer projem işinize yaradıysa, bana bir kahve ısmarlayarak çalışmalarıma destek olabilirsiniz! 🚀
 
 ### 🪙 Kripto Para Adreslerim
 
